@@ -3,6 +3,7 @@
 
 **Contributors:** Karah, Zanda and Purrity
 
+## What It Does
 For Exercise 6 - Function basics:
 We created:
 - A function called greet that takes a name parameter.
